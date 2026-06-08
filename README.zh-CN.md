@@ -116,7 +116,7 @@ ln -s ~/antigravity-skills/skills/* .agent/skills/
 
 
 
-## 🚀 已集成的 Skills (共 79 个)
+## 🚀 已集成的 Skills (共 83 个)
 
 ### 🎨 创意与设计 (Creative & Design)
 这些技能专注于视觉表现、UI/UX 设计和艺术创作。
@@ -162,6 +162,7 @@ ln -s ~/antigravity-skills/skills/* .agent/skills/
 - **`@[finishing-a-development-branch]`**: 引导开发分支的收尾工作（合并、PR、清理等）
 - **`@[subagent-driven-development]`**: 协调多个子 Agent 并行执行独立的开发任务
 - **`@[claude-api]`**: 使用 Claude API 或 Anthropic SDK 构建应用（支持 Python, TypeScript, Java, Go 等）
+- **`@[baoyu-electron-extract]`**: 提取已安装 Electron 应用的资源和源码，支持从 Source Map 还原代码。
 
 ### 📄 文档与办公 (Documentation & Office)
 这些技能用于处理各种格式的专业文档和办公需求。
@@ -184,6 +185,7 @@ ln -s ~/antigravity-skills/skills/* .agent/skills/
 - **`@[baoyu-compress-image]`**: 压缩并优化图片
 - **`@[baoyu-danger-gemini-web]`**: 使用 Gemini 进行网页自动化或抓取（实验性）
 - **`@[baoyu-danger-x-to-markdown]`**: 将 X (Twitter) 帖子串转换为 Markdown
+- **`@[baoyu-wechat-summary]`**: 提取并汇总微信群聊精华与主题，生成结构化简报并维护群友画像。
 
 
 ### 📅 计划与流程 (Planning & Workflow)
@@ -205,6 +207,7 @@ ln -s ~/antigravity-skills/skills/* .agent/skills/
 - **`@[context-compression]`**: 实施上下文压缩与摘要，应对长窗口限制
 - **`@[context-degradation]`**: 诊断和修复"迷失中间"等上下文退化问题
 - **`@[filesystem-context]`**: 利用文件系统进行动态上下文卸载与管理
+- **`@[latent-briefing]`**: 利用 KV 缓存压缩和注意力匹配（Attention Matching）在表征层实现 Agent 间的内容与内存共享。
 
 ### 📐 系统设计与评估 (System Design & Evaluation)
 这些技能专注于 AI 系统的架构设计、工具构建和质量评估。
@@ -212,6 +215,7 @@ ln -s ~/antigravity-skills/skills/* .agent/skills/
 - **`@[tool-design]`**: 设计高效、清晰的 Agent 工具接口与 MCP 协议
 - **`@[evaluation]`**: 建立多维度的 Agent 性能评估体系与质量门禁
 - **`@[advanced-evaluation]`**: 实施 LLM-as-a-Judge、成对比较等高阶评估方法
+- **`@[harness-engineering]`**: 设计自主 Agent 循环的控制系统与边界，包括评估脚手架、持久化日志和安全网关。
 
 ### 🧩 系统扩展 (System Extension)
 这些技能允许我扩展自身的能力边界。

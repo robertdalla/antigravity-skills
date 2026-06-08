@@ -114,7 +114,7 @@ Many skills in this project originate from excellent open-source communities. To
 
     > **Note**: The `ui-ux-pro-max` skill has a special directory structure and does not support automatic synchronization via script for now. Please use its official installation command `uipro init --ai antigravity` to install or update.
 
-## 🚀 Integrated Skills (Total: 79)
+## 🚀 Integrated Skills (Total: 83)
 
 ### 🎨 Creative & Design
 These skills focus on visual expression, UI/UX design, and artistic creation.
@@ -160,6 +160,7 @@ These skills cover the full lifecycle of coding, testing, debugging, and code re
 - **`@[finishing-a-development-branch]`**: Guide the finalization of a development branch (merges, PRs, cleanups, etc.).
 - **`@[subagent-driven-development]`**: Coordinate multiple sub-agents to perform independent development tasks in parallel.
 - **`@[claude-api]`**: Build apps with the Claude API or Anthropic SDK (Python, TypeScript, Java, Go, etc.).
+- **`@[baoyu-electron-extract]`**: Extracts resources and source code from installed Electron apps, restoring files from source maps when available.
 
 ### 📄 Documentation & Office
 These skills are used for handling professional documents and office needs in various formats.
@@ -182,6 +183,7 @@ These skills are used for handling professional documents and office needs in va
 - **`@[baoyu-compress-image]`**: Compress and optimize images.
 - **`@[baoyu-danger-gemini-web]`**: Web automation or scraping using Gemini (experimental).
 - **`@[baoyu-danger-x-to-markdown]`**: Convert X (Twitter) threads to Markdown.
+- **`@[baoyu-wechat-summary]`**: Summarize WeChat group chat highlights and topics into structured digests with participant statistics and user profiles.
 
 
 ### 📅 Planning & Workflow
@@ -203,6 +205,7 @@ These skills build the agent's mental models, memory systems, and context manage
 - **`@[context-compression]`**: Implement context compression and summarization to handle long window limits.
 - **`@[context-degradation]`**: Diagnose and fix context degradation issues like "lost in the middle".
 - **`@[filesystem-context]`**: Utilize the filesystem for dynamic context offloading and management.
+- **`@[latent-briefing]`**: Share memory across agents at the representation level using KV cache compaction and Attention Matching.
 
 ### 📐 System Design & Evaluation
 These skills focus on architectural design, tool building, and quality assessment of AI systems.
@@ -210,6 +213,7 @@ These skills focus on architectural design, tool building, and quality assessmen
 - **`@[tool-design]`**: Design efficient and clear agent tool interfaces and MCP protocols.
 - **`@[evaluation]`**: Establish multi-dimensional agent performance evaluation systems and quality gates.
 - **`@[advanced-evaluation]`**: Implement advanced evaluation methods like LLM-as-a-Judge and pairwise comparison.
+- **`@[harness-engineering]`**: Design control systems and boundaries for autonomous agent loops, including evaluation scaffolds, durable logging, and safety gates.
 
 ### 🧩 System Extension
 These skills allow me to extend my own capability boundaries.
