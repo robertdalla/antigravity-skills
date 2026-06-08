@@ -2,7 +2,7 @@
 
 [English](README.md) | **简体中文**
 
-`open-agent-hub` 是一个面向 AI 编码助手（如 Claude Code, Cursor, Codex, Antigravity 等）的本地统一能力管理中心。它通过一个零依赖的本地 CLI 工具，集中管理并一键链接各种 AI 助手能力组件（如 **Skills/模块化技能**、**Agents/专家角色**、**Commands/运行时指令**等，并对未来的其他能力形态保持完全开放与兼容）。
+一个面向 AI 编码助手（如 Claude Code、Cursor、Trae 等）的本地能力管理中心。通过一个轻量、零依赖的本地 CLI 工具，您可以一键将本仓库的**模块化技能 (Skills)**、**专家角色 (Agents)** 与**快捷指令 (Commands)** 链接并激活到各种 AI 助手的项目工作区或系统全局配置中。
 
 ---
 

@@ -2,7 +2,7 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-`open-agent-hub` is a unified local capability management center for AI coding agents (such as Claude Code, Cursor, Codex, Antigravity, etc.). It manages and links various AI agent capability components (such as **Skills** / modular prompting, **Agents** / specialist workflow roles, **Commands** / agent-facing slash commands, and is designed with built-in extensibility to support future capability paradigms) through a zero-dependency local CLI tool.
+A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.). With a single command, you can link **Skills** (modular prompting), **Agents** (expert workflow roles), and **Commands** (slash commands) to your project workspaces or global system configurations.
 
 ---
 
