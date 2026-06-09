@@ -51,7 +51,7 @@ To maintain clean and focused documentation, deep-dive specifications have been 
 | Tool Name (Agent) | Type | Compatibility | Project Path (Workspace) | Global Path (System) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Claude Code** | CLI | ✅ Full | `.claude/` | `~/.claude/` |
-| **Antigravity** | IDE | ✅ Full | `.agent/` | `~/.gemini/antigravity/` |
+| **Antigravity** | IDE | ✅ Full | `.agents/` | `~/.gemini/antigravity/` |
 | **Gemini CLI** | CLI | ✅ Full | `.gemini/` | `~/.gemini/` |
 | **Codex** | CLI | ✅ Full | `.codex/` | `~/.codex/` |
 | **Cursor** | IDE | ✅ Full | `.cursor/` | `~/.cursor/` |

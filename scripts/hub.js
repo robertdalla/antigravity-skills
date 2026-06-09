@@ -27,7 +27,7 @@ const targets = {
     global: path.join(os.homedir(), '.claude')
   },
   antigravity: {
-    project: '.agent',
+    project: '.agents',
     global: path.join(os.homedir(), '.gemini', 'antigravity')
   },
   gemini: {

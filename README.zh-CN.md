@@ -51,7 +51,7 @@
 | 助手名称 | 类型 | 兼容性 | 项目路径 (工作区) | 全局路径 (系统级) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Claude Code** | CLI | ✅ 完整 | `.claude/` | `~/.claude/` |
-| **Antigravity** | IDE | ✅ 完整 | `.agent/` | `~/.gemini/antigravity/` |
+| **Antigravity** | IDE | ✅ 完整 | `.agents/` | `~/.gemini/antigravity/` |
 | **Gemini CLI** | CLI | ✅ 完整 | `.gemini/` | `~/.gemini/` |
 | **Codex** | CLI | ✅ 完整 | `.codex/` | `~/.codex/` |
 | **Cursor** | IDE | ✅ 完整 | `.cursor/` | `~/.cursor/` |
